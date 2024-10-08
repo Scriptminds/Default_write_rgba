@@ -1,0 +1,4 @@
+#################################################################
+#OPTIMIZATION-DEFAULT
+
+Write=nuke.knobDefault('Write.channels','rgba')
